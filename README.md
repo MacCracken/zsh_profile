@@ -1,9 +1,9 @@
 # zsh_profile
 
-In order to use the profile
+In order to use the profile; base mac install should have
 
-* home brew should be installed on mac
-* zsh (default)
+* homebrew
+* zsh (default shell)
 * powerlevel10k (https://github.com/romkatv/powerlevel10k)
 * figlet (brew)
 * colorfs (ruby gem)
